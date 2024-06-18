@@ -1,0 +1,10 @@
+.fullField {
+    width: 500px !important;
+    display:  inline-block;
+}
+
+#Field10 {
+
+    display: none !important;
+}
+
