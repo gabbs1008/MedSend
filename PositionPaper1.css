@@ -1,12 +1,8 @@
-<style>
 .fullField {
     width: 500px !important;
     display:  inline-block;
 }
 
 input#Field10 {
-
-    display: none !important;
+    display:  none;
 }
-</style>
-
