@@ -2,7 +2,13 @@
     width: 500px !important;
     display:  inline-block !important;
 }
-
+.wufoo .info h2 {
+    font-size: 160% !important;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: normal;
+    color: red !important;
+}
 input#Field10 {
     display:  none;
 }
