@@ -1,6 +1,6 @@
 .fullField {
     width: 500px !important;
-    display:  inline-block;
+    display:  inline-block !important;
 }
 
 input#Field10 {
